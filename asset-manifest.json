@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hippy_front/static/css/main.666c41f0.chunk.css",
+    "main.js": "/hippy_front/static/js/main.4aab8e32.chunk.js",
+    "main.js.map": "/hippy_front/static/js/main.4aab8e32.chunk.js.map",
+    "runtime-main.js": "/hippy_front/static/js/runtime-main.f973ad1d.js",
+    "runtime-main.js.map": "/hippy_front/static/js/runtime-main.f973ad1d.js.map",
+    "static/css/2.86e65bd8.chunk.css": "/hippy_front/static/css/2.86e65bd8.chunk.css",
+    "static/js/2.0e0f3c4f.chunk.js": "/hippy_front/static/js/2.0e0f3c4f.chunk.js",
+    "static/js/2.0e0f3c4f.chunk.js.map": "/hippy_front/static/js/2.0e0f3c4f.chunk.js.map",
+    "static/js/3.98554c77.chunk.js": "/hippy_front/static/js/3.98554c77.chunk.js",
+    "static/js/3.98554c77.chunk.js.map": "/hippy_front/static/js/3.98554c77.chunk.js.map",
+    "index.html": "/hippy_front/index.html",
+    "static/css/2.86e65bd8.chunk.css.map": "/hippy_front/static/css/2.86e65bd8.chunk.css.map",
+    "static/css/main.666c41f0.chunk.css.map": "/hippy_front/static/css/main.666c41f0.chunk.css.map",
+    "static/js/2.0e0f3c4f.chunk.js.LICENSE.txt": "/hippy_front/static/js/2.0e0f3c4f.chunk.js.LICENSE.txt",
+    "static/media/UploadIcon.svg": "/hippy_front/static/media/UploadIcon.469126df.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f973ad1d.js",
+    "static/css/2.86e65bd8.chunk.css",
+    "static/js/2.0e0f3c4f.chunk.js",
+    "static/css/main.666c41f0.chunk.css",
+    "static/js/main.4aab8e32.chunk.js"
+  ]
+}
